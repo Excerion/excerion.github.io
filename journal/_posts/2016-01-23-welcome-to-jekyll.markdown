@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! from Journal"
-date:   2016-01-23 20:28:51 +0530
+title: Welcome to Jekyll! from Journal
+date: '2016-01-23 20:28:51 +0530'
 categories: journal
+published: false
 ---
 You’ll find this post in your `journal/_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
