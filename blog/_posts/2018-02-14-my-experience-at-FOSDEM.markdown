@@ -13,6 +13,8 @@ After sitting down for a cup of coffee and getting a printed schedule, we went t
 
 After that, my friends and I parted ways. They went to Tool the Docs, while I wanted to go to the Retrocomputing room. They were going to restore a thirty-year-old Minitel server on an Apple II. Those things are from before my time, so this would've been my first introduction to them, except that the talk got canceled. I would not regret going there, however. The organizers filled the gap with an improvisation: they asked the audience about their own retrocomputers. The question that was posed was: "who has the oldest computer?" I had to contain myself, as it wasn't the right question. I heard something about [...]. Then, another question was posed: "who has the greatest computer?" Bingo. I showed them my HP 100LX digital organizer. I had an opportunity then to briefly talk about it in front of the audience. You can see the footage [here].
 
-After that, I went back and forth a bit between Decentralized internet & privacy, and the retrocomputing room. I found the talks at the former room to be of lower quality. During one of the talks, there were some technical issues with the 
+After that, I went back and forth a bit between Decentralized internet & privacy, and the retrocomputing room. I found the talks at the former room to be of lower quality. During one of the talks, there were some technical issues with the video projector, so a technician came in to fix it, and even though it was taking a while, the speaker just leaned back. She only continued the talk at the request of an audience member. I feel like that says something about how enthusiastic she really was about communicating the information to us.
+
+
 
 - Perfectly fine for less technical minded people.
