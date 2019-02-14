@@ -15,6 +15,6 @@ After that, my friends and I parted ways. They went to Tool the Docs, while I wa
 
 After that, I went back and forth a bit between Decentralized internet & privacy, and the retrocomputing room. I found the talks at the former room to be of lower quality. During one of the talks, there were some technical issues with the video projector, so a technician came in to fix it, and even though it was taking a while, the speaker just leaned back. She only continued the talk at the request of an audience member. I feel like that says something about how enthusiastic she really was about communicating the information to us.
 
-
+Another interesting talk was Making Open Source Hardware for Retrogaming on Raspberry Pi. The speaker 
 
 - Perfectly fine for less technical minded people.
