@@ -21,6 +21,8 @@ Another interesting talk was Making Open Source Hardware for Retrogaming on Rasp
 
 [Image of integrated circuit.]
 
-As I was reviewing the schedule, I noticed a lot of interesting talks in a room called Collaborative information and CMS applications. Many of them were about Wikis, which I like. I used to have a personal MediaWiki instance that I used as a personal knowledge base. So I went to that room and stayed there for the rest of the evening.
+As I was reviewing the schedule, I noticed a lot of interesting talks in a room called Collaborative information and CMS applications. Many of them were about Wikis. I've used MediaWiki and TiddlyWiki as a personal knowledge base in the past, and Wiki software in general interests me. So I went to that room and stayed there for the rest of the afternoon.
+
+
 
 - Perfectly fine for less technical minded people.
