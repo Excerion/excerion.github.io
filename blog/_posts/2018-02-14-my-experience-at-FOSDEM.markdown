@@ -23,6 +23,6 @@ Another interesting talk was Making Open Source Hardware for Retrogaming on Rasp
 
 As I was reviewing the schedule, I noticed a lot of interesting talks in a room called Collaborative information and CMS applications. Many of them were about Wikis. I've used MediaWiki and TiddlyWiki as a personal knowledge base in the past, and Wiki software in general interests me. So I went to that room and stayed there for the rest of the afternoon.
 
-
+The Wiki talks were interesting, but not spectacular. The talk about Tiki Wiki did not give an overview of the software, but rather the speaker just gave a walkthrough of him fiddling in the admin panel. That isn't something I'd watch for leisure. I'd prefer he gave me reasons to use that software package in the first place.
 
 - Perfectly fine for less technical minded people.
