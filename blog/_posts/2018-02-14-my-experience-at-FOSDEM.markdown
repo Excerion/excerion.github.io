@@ -11,3 +11,6 @@ I went with a couple of friends. We left from Utrecht (in the centre of the Neth
 
 After sitting down for a cup of coffee and getting a printed schedule, we went to the first talk we wanted to hear. We arrived 30 minutes before it started, but it turned out that this wasn't early enough: we were confronted with a sign that spelt, in big, red letters: FULL. That was a sign we'd stare at many times during the weekend. FOSDEM is a crowded conference. Not that you always need to be that early. The subject matter of that talk, which was quantum computing, must've drawn especially many people, and it was one of the first talks of the day so people could be there early. So we went to the room opposite it, where there was an introduction to the Ada programming language. This was okay. It's cool to learn about, but not something I plan to use, which made me feel a bit bored.
 
+After that, my friends and I parted ways. They went to Tool the Docs, while I wanted to go to the Retrocomputing room. They were going to restore a thirty-year-old Minitel server on an Apple II. I know very little about those things – they're from before my time – but retrocomputing interests me a lot and 
+
+- Perfectly fine for less technical minded people.
