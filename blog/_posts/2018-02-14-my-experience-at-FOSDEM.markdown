@@ -7,7 +7,7 @@ published: true
 ---
 I was present at FOSDEM recently. This was my first time visiting an open-source convention. I'm documenting the experience here.
 
-I went with a couple of friends. We left from Utrecht (in the centre of the Netherlands) and the conference is held at the Université libre de Bruxelles (Free University of Brussels), so we had to leave early in the morning. Inside Brussels, we encountered an interesting traffic light that said **Stop** meat while it was red, and **go** vegan while it was green. The first thing we did after arriving was familiarizing ourselves with the area. It's an interesting campus. There are a lot of hills, so they built entrances to the buildings at multiple levels. It's funny to walk into a building and already be on the second floor.
+I went with a couple of friends. We left from Utrecht (in the centre of the Netherlands) and the conference is held at the UniversitÃ© libre de Bruxelles (Free University of Brussels), so we had to leave early in the morning. Inside Brussels, we encountered an interesting traffic light that said **Stop** meat while it was red, and **go** vegan while it was green. The first thing we did after arriving was familiarizing ourselves with the area. It's an interesting campus. There are a lot of hills, so they built entrances to the buildings at multiple levels. It's funny to walk into a building and already be on the second floor.
 
 [Image of traffic light here.]
 
@@ -23,6 +23,8 @@ Another interesting talk was Making Open Source Hardware for Retrogaming on Rasp
 
 As I was reviewing the schedule, I noticed a lot of interesting talks in a room called Collaborative information and CMS applications. Many of them were about Wikis. I've used MediaWiki and TiddlyWiki as a personal knowledge base in the past, and Wiki software in general interests me. So I went to that room and stayed there for the rest of the afternoon.
 
-The Wiki talks were interesting, but not spectacular. The talk about Tiki Wiki did not give an overview of the software, but rather the speaker just gave a walkthrough of him fiddling in the admin panel. That isn't something I'd watch for leisure. I'd prefer he gave me reasons to use that software package in the first place.
+The Wiki talks were interesting, but not spectacular. The talk about Tiki Wiki did not give an overview of the software, but rather the speaker just gave a walkthrough of him fiddling in the admin panel. That isn't something I'd watch for leisure. I'd prefer he gave me more of an overview, and reasons to use that software package in the first place.
+
+Then there was a talk about LibreOffice Online. I only stayed for this talk to avoid walking around, but I don't actually like LibreOffice. The speaker expressed a sense of superiority about WYSIWYG word processors, calling others "stuck in the past". This was a bit of an eye opener for me. I used to think that WYSIWYG people simply never thought about 
 
 - Perfectly fine for less technical minded people.
