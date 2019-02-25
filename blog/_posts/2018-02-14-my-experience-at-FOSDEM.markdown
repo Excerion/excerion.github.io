@@ -25,6 +25,6 @@ As I was reviewing the schedule, I noticed a lot of interesting talks in a room 
 
 The Wiki talks were interesting, but not spectacular. The talk about Tiki Wiki did not give an overview of the software, but rather the speaker just gave a walkthrough of him fiddling in the admin panel. That isn't something I'd watch for leisure. I'd prefer he gave me more of an overview, and reasons to use that software package in the first place.
 
-Then there was a talk about LibreOffice Online. I only stayed for this talk to avoid walking around, but I don't actually like LibreOffice. The speaker expressed a sense of superiority about WYSIWYG word processors, calling others "stuck in the past". This was a bit of an eye opener for me. I used to think that WYSIWYG people simply never thought about 
+Then there was a talk about LibreOffice Online. I only stayed for this talk to avoid walking around, but I don't actually like LibreOffice. The speaker expressed a sense of superiority about WYSIWYG editors, calling others "stuck in the past". This was a bit of an eye opener for me. I had assumed that WYSIWYG users simply hadn't considered the alternatives, but here I saw someone who actually preferred the paradigm.
 
 - Perfectly fine for less technical minded people.
