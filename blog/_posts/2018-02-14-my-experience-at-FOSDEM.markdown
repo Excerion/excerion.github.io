@@ -38,7 +38,7 @@ I liked staying in one place, so I thought I had the perfect plan for Sunday: go
 
 On my way there, I encountered something that, with my mind for puns, I just had to take a picture of. There was a sign that talked about "libre examen". How appropriate, I thought: even the exams here are libre. I looked up the phrase, though, and it turns out that it's an academic current, stemming from the 19th century, that tried to break free from the clerically imposed beliefs, biases, dogmas, and appeals to authority, especially in the fields of philosophy, history, and law. These are things we take for granted today, but which have a cultural heritage that can be traced to that very university, where the ideas developed. This is super-duper rare information, by the way. There is no article about it on the English Wikipedia. I took it from [the Dutch one](https://nl.wikipedia.org/wiki/Vrij_onderzoek). So there's an interesting piece of trivia for you.
 
-![]({{site.baseurl}}/blog/_posts/IMG_20190202_1447112.jpg)![IMG_20190202_1447112.jpg]({{site.baseurl}}/blog/_posts/IMG_20190202_1447112.jpg)
+![IMG_20190202_1447112.jpg]({{site.baseurl}}/blog/_posts/IMG_20190202_1447112.jpg)
 
 *Even the exams are libre!*
 
