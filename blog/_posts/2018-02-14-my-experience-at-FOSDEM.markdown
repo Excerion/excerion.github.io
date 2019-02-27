@@ -35,7 +35,12 @@ After one more talk about Linked Data, the day was coming to a close. I headed t
 ## Sunday
 I liked staying in one place, so I thought I had the perfect plan for Sunday: go to the Quantum Computing workshop, which lasted all day. It started with talks, and in the afternoon we'd work on projects ourselves with our laptops. However, with no previous exposure to quantum computing, the talks proved too technical for me. There was one talk that I could follow, so I kept on hoping for more of those, but after a few hours I gave up and headed to a talk about the Tor Project.
 
-On my way there, I encountered something that, with my mind for puns, I just had to take a picture of. There was a sign that talked about "libre examen". How appropriate, I thought: even the exams here are libre. 
+On my way there, I encountered something that, with my mind for puns, I just had to take a picture of. There was a sign that talked about "libre examen". How appropriate, I thought: even the exams here are libre. I looked up the phrase, though, and it turns out that it's an academic current, stemming from the 19th century, that tried to break free from the clerically imposed beliefs, biases, dogmas, and appeals to authority, especially in the fields of philosophy, history, and law. These are things we take for granted today, but which have a cultural heritage that can be traced to that very university, where the ideas developed. This is super-duper rare information, by the way. There is no article about it on the English Wikipedia. I took it from [the Dutch one](https://nl.wikipedia.org/wiki/Vrij_onderzoek). So there's an interesting piece of trivia for you.
+
+[Picture of libre exams here]
+*Even the exams are libre!*
+
+
 
 - Libre exams pun
 - Perfectly fine for less technical minded people.
