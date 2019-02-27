@@ -10,7 +10,7 @@ I was present at FOSDEM recently. This was my first time visiting an open-source
 ## Saturday
 I went with a couple of friends. We left from Utrecht (in the centre of the Netherlands) and the conference is held at the UniversitÃ© libre de Bruxelles (Free University of Brussels), so we had to leave early in the morning. Inside Brussels, we encountered an interesting traffic light that said **Stop** meat while it was red, and **go** vegan while it was green. A nice piece of activism. The first thing we did after arriving was familiarizing ourselves with the area. It's an interesting campus. There are a lot of hills, so they built entrances to the buildings at multiple levels. It's funny to walk into a building and already be on the second floor.
 
-![livekindly_go_vegan_traffic_light.jpg]({{site.baseurl}}/blog/_posts/livekindly_go_vegan_traffic_light.jpg)
+![](https://raw.githubusercontent.com/Excerion/excerion.github.io/master/blog/_posts/livekindly_go_vegan_traffic_light.jpg)
 
 *Stop meat, go vegan!*
 
@@ -39,7 +39,7 @@ I liked staying in one place, so I thought I had the perfect plan for Sunday: go
 
 On my way there, I encountered something that, with my mind for puns, I just had to take a picture of. There was a sign that talked about "libre examen". How appropriate, I thought: even the exams here are libre. I looked up the phrase, though, and it turns out that it's an academic current, stemming from the 19th century, that tried to break free from the clerically imposed beliefs, biases, dogmas, and appeals to authority, especially in the fields of philosophy, history, and law. These are things we take for granted today, but which have a cultural heritage that can be traced to that very university, where the ideas developed. This is super-duper rare information, by the way. There is no article about it on the English Wikipedia. I took it from [the Dutch one](https://nl.wikipedia.org/wiki/Vrij_onderzoek). So there's an interesting piece of trivia for you.
 
-![]({{site.baseurl}}/blog/_posts/IMG_20190202_1447112.jpg)
+![](https://raw.githubusercontent.com/Excerion/excerion.github.io/master/blog/_posts/IMG_20190202_1447112.jpg)
 
 *Even the exams are libre!*
 
