@@ -42,7 +42,6 @@ On my way there, I encountered something that, with my mind for puns, I just had
 
 The Tor talk was another highlight for me. I've seen their talks on Youtube before, and as I'm used to from them, they had a great, personable speaker, and the content was interesting, accessible to non-technical audiences, and important from a societal point of view. What really struck me was the tale of an American company illegally serving surveillance and censorship infrastructure in Syria, the hacker group Anonymous calling them out for it, and the company first denying it, and in the end somehow walking out of it with an award from the US State Department. You can watch the recording [here](https://ftp.belnet.be/mirror/FOSDEM/2019/Janson/tor_project.mp4).
 
-Later on, I went to a talk about Homebrew. I did not expect to see this. 
+Later on, I went to a talk about Homebrew. I did not expect to see this. The convention is about FOSS, so I was wondering: is everyone waiting in line here using the GNU/Linux port of it? Is it that popular? I asked people, and some of them used it, but I was also among my fellow macOS users. There's room for that at FOSDEM.
 
-- Libre exams pun
-- Perfectly fine for less technical minded people.
+My friends were tired by this point, and I had already had a wonderful weekend, so I was more than fine with going home early. In conclusion, I can say that, so long as you know what talks to go to, FOSDEM is a perfectly fine place to go to even for less technically minded people like myself, and definitely something I plan to come back to in future years.
