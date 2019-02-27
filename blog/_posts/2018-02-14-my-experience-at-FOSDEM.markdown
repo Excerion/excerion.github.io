@@ -40,7 +40,7 @@ On my way there, I encountered something that, with my mind for puns, I just had
 [Picture of libre exams here]
 *Even the exams are libre!*
 
-
+The Tor talk was another highlight for me. I've seen their talks on Youtube before, and as I'm used to from them, they had a great, personable speaker, and the content was interesting, accessible to non-technical audiences, and important from a societal point of view. 
 
 - Libre exams pun
 - Perfectly fine for less technical minded people.
