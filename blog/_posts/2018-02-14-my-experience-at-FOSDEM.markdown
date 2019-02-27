@@ -8,9 +8,10 @@ published: true
 I was present at FOSDEM recently. This was my first time visiting an open-source convention. I'm documenting the experience here.
 
 ## Saturday
-I went with a couple of friends. We left from Utrecht (in the centre of the Netherlands) and the conference is held at the UniversitÃ© libre de Bruxelles (Free University of Brussels), so we had to leave early in the morning. Inside Brussels, we encountered an interesting traffic light that said **Stop** meat while it was red, and **go** vegan while it was green. The first thing we did after arriving was familiarizing ourselves with the area. It's an interesting campus. There are a lot of hills, so they built entrances to the buildings at multiple levels. It's funny to walk into a building and already be on the second floor.
+I went with a couple of friends. We left from Utrecht (in the centre of the Netherlands) and the conference is held at the UniversitÃ© libre de Bruxelles (Free University of Brussels), so we had to leave early in the morning. Inside Brussels, we encountered an interesting traffic light that said **Stop** meat while it was red, and **go** vegan while it was green. A nice piece of activism. The first thing we did after arriving was familiarizing ourselves with the area. It's an interesting campus. There are a lot of hills, so they built entrances to the buildings at multiple levels. It's funny to walk into a building and already be on the second floor.
 
 [Image of traffic light here.]
+
 
 After sitting down for a cup of coffee and getting a printed schedule, we went to the first talk we wanted to hear. We arrived 30 minutes before it started, but it turned out that this wasn't early enough: we were confronted with a sign that spelt, in big, red letters: FULL. That was a sign we'd stare at many times during the weekend. FOSDEM is a crowded conference. Not that you always need to be that early, though. The subject matter of that talk, which was quantum computing, must've drawn especially many people, and it was one of the first talks of the day so people could be there early. So we went to the room opposite it, where there was an introduction to the Ada programming language. This was okay. It's cool to learn about, but not something I plan to use, which made me feel a bit bored.
 
@@ -37,7 +38,8 @@ I liked staying in one place, so I thought I had the perfect plan for Sunday: go
 
 On my way there, I encountered something that, with my mind for puns, I just had to take a picture of. There was a sign that talked about "libre examen". How appropriate, I thought: even the exams here are libre. I looked up the phrase, though, and it turns out that it's an academic current, stemming from the 19th century, that tried to break free from the clerically imposed beliefs, biases, dogmas, and appeals to authority, especially in the fields of philosophy, history, and law. These are things we take for granted today, but which have a cultural heritage that can be traced to that very university, where the ideas developed. This is super-duper rare information, by the way. There is no article about it on the English Wikipedia. I took it from [the Dutch one](https://nl.wikipedia.org/wiki/Vrij_onderzoek). So there's an interesting piece of trivia for you.
 
-[Picture of libre exams here]
+![]({{site.baseurl}}/blog/_posts/IMG_20190202_1447112.jpg)![IMG_20190202_1447112.jpg]({{site.baseurl}}/blog/_posts/IMG_20190202_1447112.jpg)
+
 *Even the exams are libre!*
 
 The Tor talk was another highlight for me. I've seen their talks on Youtube before, and as I'm used to from them, they had a great, personable speaker, and the content was interesting, accessible to non-technical audiences, and important from a societal point of view. What really struck me was the tale of an American company illegally serving surveillance and censorship infrastructure in Syria, the hacker group Anonymous calling them out for it, and the company first denying it, and in the end somehow walking out of it with an award from the US State Department. You can watch the recording [here](https://ftp.belnet.be/mirror/FOSDEM/2019/Janson/tor_project.mp4).
