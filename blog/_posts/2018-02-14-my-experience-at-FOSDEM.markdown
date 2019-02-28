@@ -22,7 +22,7 @@ After that, I went back and forth a bit between Decentralized internet & privacy
 
 Another interesting talk was Making Open Source Hardware for Retrogaming on Raspberry Pi. The speaker had designed a gamepad with an RPi at its heart. At the end, the speaker showed us an integrated circuit and said he'd give one to anyone who'd ask a question. There was nothing in particular I wanted to ask, but I wanted one. I asked how he was doing and got my circuit. That was the last retrocomputing talk I wanted to go to.
 
-![](https://raw.githubusercontent.com/Excerion/excerion.github.io/master/blog/_posts/IMG_20190228_1235291.jpg)
+![](raw.githubusercontent.com/Excerion/excerion.github.io/master/blog/_posts/IMG_20190228_1235291.png)
 
 *My free integrated circuit.*
 
