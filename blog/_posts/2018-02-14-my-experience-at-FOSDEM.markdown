@@ -8,7 +8,7 @@ published: true
 I was present at FOSDEM recently. This was my first time visiting an open-source convention. I'm documenting the experience here.
 
 ## Saturday
-I went with a couple of friends. We left from Utrecht (in the centre of the Netherlands) and the conference is held at the UniversitÃ© libre de Bruxelles (Free University of Brussels), so we had to leave early in the morning. Inside Brussels, we encountered an interesting traffic light that said **Stop** meat while it was red, and **go** vegan while it was green. A nice piece of activism. The first thing we did after arriving was familiarizing ourselves with the area. It's an interesting campus. There are a lot of hills, so they built entrances to the buildings at multiple levels. It's funny to walk into a building and already be on the second floor.
+I went with a couple of friends. We left from Utrecht (in the centre of the Netherlands) and the conference is held at the Université libre de Bruxelles (Free University of Brussels), so we had to leave early in the morning. Inside Brussels, we encountered an interesting traffic light that said **Stop** meat while it was red, and **go** vegan while it was green. A nice piece of activism. The first thing we did after arriving was familiarizing ourselves with the area. It's an interesting campus. There are a lot of hills, so they built entrances to the buildings at multiple levels. It's funny to walk into a building and already be on the second floor.
 
 ![](https://raw.githubusercontent.com/Excerion/excerion.github.io/master/blog/_posts/livekindly_go_vegan_traffic_light.jpg)
 
