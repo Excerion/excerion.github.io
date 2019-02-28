@@ -12,7 +12,7 @@ I went with a couple of friends. We left from Utrecht (in the centre of the Neth
 
 ![](https://raw.githubusercontent.com/Excerion/excerion.github.io/master/blog/_posts/livekindly_go_vegan_traffic_light.jpg)
 
-*Stop meat, go vegan!*
+*STOP meat, GO vegan!*
 
 After sitting down for a cup of coffee and getting a printed schedule, we went to the first talk we wanted to hear. We arrived 30 minutes before it started, but it turned out that this wasn't early enough: we were confronted with a sign that spelt, in big, red letters: FULL. That was a sign we'd face many times during the weekend. FOSDEM is a crowded conference. Usually, it's safe to be somewhere 15 minutes early, but the first talks of the day can be an exception. So we went to the room opposite it, where there was an introduction to the Ada programming language. This was okay. It's cool to learn about, but not something I plan to use, which made me feel a bit bored.
 
