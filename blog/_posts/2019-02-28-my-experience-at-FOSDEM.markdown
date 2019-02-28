@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Experience at FOSDEM 2019
-date: '2018-02-14 20:28:51 +0530'
+date: '2019-02-28 20:28:51 +0530'
 categories: blog
 published: true
 ---
