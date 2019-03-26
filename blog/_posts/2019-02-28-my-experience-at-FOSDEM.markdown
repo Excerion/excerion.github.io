@@ -8,7 +8,7 @@ published: true
 I was at FOSDEM at the beginning of this month. This was my first time visiting an open-source convention. I'm documenting the experience here.
 
 ## Saturday
-I went with a couple of friends. We left from Utrecht (in the centre of the Netherlands) and the conference is held at the *Université libre de Bruxelles* (Free University of Brussels), so we had to leave early in the morning. Inside Brussels, we encountered an interesting traffic light that said **STOP meat** while it was red, and **GO vegan** while it was green. A nice piece of activism. The first thing we did after arriving was familiarizing ourselves with the area. It's an interesting campus. There are a lot of hills, so they built entrances to the buildings at multiple levels. It's funny to walk into a building and already be on the second floor.
+I went with a couple of friends. We left from Utrecht (in the centre of the Netherlands) and the conference is held at the *Université libre de Bruxelles* (Free University of Brussels), so we had to leave early in the morning. Inside Brussels, we encountered an interesting traffic light that said **STOP meat** while it was red, and **GO vegan** while it was green. An interesting piece of activism. The first thing we did after arriving was familiarizing ourselves with the area. It's an interesting campus. There are a lot of hills, so they built entrances to the buildings at multiple levels. It's funny to walk into a building and already be on the second floor.
 
 ![](https://raw.githubusercontent.com/Excerion/excerion.github.io/master/blog/_posts/livekindly_go_vegan_traffic_light.jpg)
 
@@ -20,7 +20,7 @@ After that, my friends and I parted ways. They went to Tool the Docs, while I wa
 
 After that, I went back and forth a bit between Decentralized Internet & Privacy, and the Retrocomputing room. I found the talks at the former room to be of lower quality. During one of the talks, there were some technical issues with the video projector, so a technician came in to fix it, and even though it was taking a while, the speaker just leaned back. She only continued the talk at the request of an audience member. I feel like that says something about how enthusiastic she really was about communicating the information to us.
 
-Another interesting talk was Making Open Source Hardware for Retrogaming on Raspberry Pi. The speaker had designed a gamepad with an RPi at its heart. At the end, the speaker showed us an integrated circuit and said he'd give one to anyone who'd ask a question. There was nothing in particular I wanted to ask, but I wanted one. I asked how he was doing and got my circuit. That was the last retrocomputing talk I wanted to go to.
+Another interesting talk was Making Open Source Hardware for Retrogaming on Raspberry Pi. The speaker had designed a gamepad with an RPi at its heart. At the end, the speaker showed us an integrated circuit and said he'd give one to anyone who'd ask a question. There was nothing in particular I wanted to ask, but I wanted one. I asked how he was doing and stretched out my arms. That was the last retrocomputing talk I wanted to go to.
 
 ![](https://raw.githubusercontent.com/Excerion/excerion.github.io/master/blog/_posts/IMG_20190228_1235291.png)
 
